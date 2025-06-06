@@ -5,6 +5,7 @@
 The **Women Safety and Security Android App** is designed to provide immediate assistance to women during emergencies. With a user-friendly interface and quick response features, this app allows users to easily alert their emergency contacts and authorities in case of distress. By simply shaking the phone, users can send an emergency signal with their real-time location to pre-registered contacts, enabling timely help.
 
 Additionally, the app provides essential information on women's safety laws and acts, as well as a comprehensive list of emergency helplines for quick access.
+We used FireBase as the database in this project.
 
 ## Features
 
