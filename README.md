@@ -1,21 +1,24 @@
-# Women Safety and Security Android App
+# Women Safety and Security – Android App
 
-## Overview
+The Women Safety and Security Android application is built to provide quick, reliable assistance to women in emergency situations. With an intuitive interface and rapid trigger mechanisms, the app enables users to instantly alert trusted contacts and share their real-time location in moments of distress.
 
-The **Women Safety and Security Android App** is designed to provide immediate assistance to women during emergencies. With a user-friendly interface and quick response features, this app allows users to easily alert their emergency contacts and authorities in case of distress. By simply shaking the phone, users can send an emergency signal with their real-time location to pre-registered contacts, enabling timely help.
+By simply shaking the phone, users can send an emergency alert along with their live GPS location to pre-registered emergency contacts, helping them receive timely support. The app also serves as an informative resource by offering details on women’s safety laws and a curated list of verified helplines.
 
-Additionally, the app provides essential information on women's safety laws and acts, as well as a comprehensive list of emergency helplines for quick access.
-We used FireBase as the database in this project.
+This project uses Firebase as the backend for secure data storage and real-time updates.
 
-## Features
+## Key Features
 
-- **Panic Alert via Phone Shake**: Activate an emergency alert by shaking the phone. This will automatically send your location to pre-registered emergency contacts.
-  
-- **Emergency Contacts**: Register multiple emergency contacts who will receive alerts in case of distress.
-  
-- **Safety Acts and Legal Information**: A section dedicated to educating users about relevant laws, regulations, and acts related to women's safety.
-  
-- **Emergency Helplines**: Access a list of important helplines, including police, medical assistance, and domestic violence support services, all categorized for easy navigation.
-  
-- **User-Friendly Interface**: Simple and accessible design tailored for quick response during emergencies.
+### 🚨 Panic Alert via Phone Shake
+Trigger an emergency alert by shaking the device. The app automatically captures and sends the user’s current location to their registered emergency contacts.
 
+### 👥 Emergency Contacts Management
+Add, update, and manage multiple trusted contacts who will receive alerts during emergencies.
+
+### 📚 Safety Acts & Legal Information
+Dedicated section providing concise information on laws, acts, and rights related to women’s safety and protection.
+
+### ☎️ Emergency Helplines Directory
+Quick access to important helpline numbers such as police, medical services, and domestic violence support, neatly categorized for faster navigation.
+
+### 📱 Simple & Accessible UI
+Clean, user-friendly interface designed for speed and ease of use under stressful situations.
